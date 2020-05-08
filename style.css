@@ -1,0 +1,13 @@
+img
+{
+height: 500px;
+width: auto;
+}
+
+body
+{
+display: flex;
+flex-direction: column;
+font-size: 80px;
+font-family: arial;
+}
